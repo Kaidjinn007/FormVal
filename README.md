@@ -1,6 +1,7 @@
 # Form Validation
+Manage forms and entries validation
 
-- 🥋 Sensei : &nbsp;                              Philipe  
+- 🥋 Sensei : &nbsp;                              Philipe Giraud
 - 📅 Date : &nbsp;&nbsp;&nbsp;&nbsp;              
 - 🥅 Goal : &nbsp;&nbsp;&nbsp;&nbsp;              Implement a template in wordpress
 - 🔧 Skills : &nbsp;&nbsp;&nbsp;                  PHP HTML5
