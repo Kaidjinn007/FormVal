@@ -1,4 +1,12 @@
-#Form Validation
+# Form Validation
+
+- 🥋 Sensei : &nbsp;                              Philipe  
+- 📅 Date : &nbsp;&nbsp;&nbsp;&nbsp;              
+- 🥅 Goal : &nbsp;&nbsp;&nbsp;&nbsp;              Implement a template in wordpress
+- 🔧 Skills : &nbsp;&nbsp;&nbsp;                  PHP HTML5
+
+
+
 git init<br>
 git add README.md<br>
 git commit -m "first commit"<br>
